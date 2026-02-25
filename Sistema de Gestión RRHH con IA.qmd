@@ -1,0 +1,17 @@
+---
+title: "Sistema de Gestión RRHH con IA"
+author: "Tu Nombre"
+date: today
+format: html
+---
+
+## Descripción del Proyecto
+
+Sistema inteligente de gestión de Recursos Humanos desarrollado con R y Shiny.
+
+## Aplicación
+
+```{r}
+#| echo: false
+source("PROYECTO - RRHH.R")
+```

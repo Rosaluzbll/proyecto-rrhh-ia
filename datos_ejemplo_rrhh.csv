@@ -1,0 +1,51 @@
+ID_Empleado,Nombre,Edad,Genero,Departamento,Puesto,Fecha_Ingreso,Salario,Evaluacion_Desempeno,Satisfaccion_General,Satisfaccion_Liderazgo,Balance_VidaTrabajo,Ambiente_Trabajo,Horas_Capacitacion,Riesgo_Rotacion,Estado_Empleado
+001,Juan Pérez,32,M,Ventas,Vendedor,2020-03-15,3500,85,4.2,4.0,4.5,4.3,24,15,Activo
+002,María García,28,F,TI,Desarrollador,2021-06-01,5500,92,4.8,4.9,4.6,4.7,48,5,Activo
+003,Carlos López,45,M,Operaciones,Supervisor,2018-01-10,4200,78,3.5,3.2,3.0,3.8,16,45,Activo
+004,Ana Martínez,35,F,RRHH,Analista,2019-08-20,4000,88,4.5,4.6,4.8,4.4,36,10,Activo
+005,Pedro Rodríguez,29,M,Finanzas,Contador,2020-11-05,4500,81,3.8,3.9,3.5,4.0,20,25,Activo
+006,Laura Sánchez,31,F,Ventas,Gerente,2017-04-12,6000,94,4.9,4.8,4.2,4.9,40,3,Activo
+007,Miguel Torres,38,M,TI,Líder Técnico,2019-02-28,6500,90,4.6,4.7,4.3,4.5,44,8,Activo
+008,Carmen Flores,27,F,Operaciones,Operario,2021-09-15,3000,72,3.2,3.0,3.8,3.5,12,55,Activo
+009,Roberto Díaz,42,M,Finanzas,Gerente,2016-07-01,7000,89,4.4,4.5,3.9,4.6,32,12,Activo
+010,Patricia Ruiz,33,F,RRHH,Especialista,2020-05-18,4200,86,4.3,4.4,4.7,4.2,28,18,Activo
+011,Jorge Castro,36,M,Ventas,Vendedor,2019-12-03,3800,79,3.6,3.5,3.7,3.9,18,38,Activo
+012,Elena Morales,30,F,TI,Desarrollador,2021-03-22,5200,87,4.5,4.6,4.4,4.5,42,12,Activo
+013,Francisco Vega,44,M,Operaciones,Coordinador,2017-10-08,4800,82,3.9,3.8,3.6,4.1,22,28,Activo
+014,Isabel Ramírez,26,F,Finanzas,Analista,2022-01-10,3600,83,4.1,4.2,4.3,4.0,26,20,Activo
+015,Andrés Herrera,39,M,Ventas,Supervisor,2018-06-15,5000,84,4.0,4.1,3.8,4.2,30,22,Activo
+016,Sofía Gutiérrez,34,F,TI,Analista,2020-08-25,4800,91,4.7,4.8,4.5,4.6,46,7,Activo
+017,Ricardo Méndez,41,M,Operaciones,Jefe,2016-03-30,5500,80,3.7,3.6,3.4,3.9,20,32,Activo
+018,Gabriela Silva,29,F,RRHH,Coordinadora,2021-07-12,4400,89,4.6,4.7,4.9,4.5,34,9,Activo
+019,Luis Paredes,37,M,Finanzas,Auditor,2019-04-05,4600,85,4.2,4.3,4.0,4.3,24,16,Activo
+020,Mónica Ríos,32,F,Ventas,Vendedor,2020-10-20,3700,77,3.4,3.3,3.6,3.7,14,42,Activo
+021,Daniel Vargas,28,M,TI,DevOps,2021-11-08,5800,93,4.9,4.9,4.7,4.8,50,4,Activo
+022,Valeria Ortiz,36,F,Operaciones,Analista,2018-09-17,4000,81,3.8,3.9,3.7,4.0,18,26,Activo
+023,Héctor Navarro,43,M,Finanzas,Controller,2015-12-01,8000,88,4.5,4.6,4.1,4.7,28,11,Activo
+024,Claudia Peña,31,F,RRHH,Reclutadora,2020-02-14,3900,86,4.4,4.5,4.6,4.3,30,15,Activo
+025,Fernando Cruz,35,M,Ventas,Vendedor,2019-05-28,3900,80,3.7,3.8,3.9,3.8,16,30,Activo
+026,Lorena Campos,27,F,TI,QA Tester,2021-08-30,4500,84,4.3,4.4,4.2,4.4,38,19,Activo
+027,Pablo Rojas,40,M,Operaciones,Supervisor,2017-11-22,4900,79,3.6,3.5,3.3,3.8,20,35,Activo
+028,Beatriz Luna,33,F,Finanzas,Analista Senior,2019-07-09,5200,87,4.4,4.5,4.2,4.5,32,13,Activo
+029,Sergio Acosta,38,M,Ventas,Gerente Regional,2016-08-14,7500,92,4.8,4.7,4.3,4.8,36,6,Activo
+030,Diana Cabrera,29,F,TI,Scrum Master,2020-12-01,5600,90,4.7,4.8,4.6,4.7,44,8,Activo
+031,Tomás Jiménez,45,M,Operaciones,Gerente,2015-05-10,7200,83,4.0,4.1,3.8,4.2,24,20,Activo
+032,Alejandra Molina,30,F,RRHH,Psicóloga,2021-04-19,4300,88,4.5,4.6,4.8,4.4,32,10,Activo
+033,Raúl Soto,34,M,Finanzas,Tesorero,2018-02-25,5400,82,3.9,4.0,3.7,4.1,22,24,Activo
+034,Cristina Reyes,26,F,Ventas,Ejecutiva,2022-03-07,3400,81,4.0,4.1,4.2,3.9,20,23,Activo
+035,Iván Medina,39,M,TI,Arquitecto,2017-09-05,8500,95,5.0,5.0,4.8,4.9,52,2,Activo
+036,Rosa Cortés,35,F,Operaciones,Analista,2019-10-28,4100,80,3.7,3.8,3.6,3.9,18,28,Activo
+037,Mario Guerrero,42,M,Finanzas,Director,2014-11-12,9500,91,4.6,4.7,4.2,4.8,30,9,Activo
+038,Sandra Fuentes,28,F,RRHH,Generalista,2020-06-22,4000,85,4.3,4.4,4.7,4.2,28,17,Activo
+039,Eduardo Gil,36,M,Ventas,Vendedor Senior,2018-12-10,4200,78,3.5,3.4,3.6,3.7,16,40,Activo
+040,Paola Montes,31,F,TI,Product Owner,2020-09-14,6200,89,4.6,4.7,4.5,4.6,46,10,Activo
+041,Alberto Suárez,44,M,Operaciones,Jefe Logística,2016-04-18,5800,81,3.8,3.7,3.5,4.0,20,29,Activo
+042,Lucía Domínguez,29,F,Finanzas,Analista,2021-05-26,3800,84,4.2,4.3,4.1,4.1,24,21,Activo
+043,Guillermo Valdés,37,M,Ventas,Supervisor,2019-01-07,5100,83,3.9,4.0,3.8,4.0,22,25,Activo
+044,Natalia Estrada,32,F,TI,UX Designer,2020-11-30,5400,92,4.8,4.9,4.7,4.8,48,5,Activo
+045,Óscar Mendoza,41,M,Operaciones,Coordinador,2017-07-24,4700,79,3.6,3.5,3.4,3.8,18,36,Activo
+046,Mariana Ponce,27,F,RRHH,Asistente,2021-09-05,3500,82,4.1,4.2,4.5,4.0,22,22,Activo
+047,Víctor Aguilar,35,M,Finanzas,Contador Senior,2018-08-13,5600,86,4.3,4.4,4.0,4.4,26,14,Activo
+048,Carolina Bravo,30,F,Ventas,Key Account,2020-03-02,5800,90,4.7,4.6,4.4,4.7,34,7,Activo
+049,Javier Ibarra,43,M,TI,CTO,2015-01-20,12000,94,4.9,4.8,4.3,4.9,40,4,Activo
+050,Adriana León,33,F,Operaciones,Supervisora,2019-06-11,4500,82,3.9,4.0,3.9,4.1,20,24,Activo
