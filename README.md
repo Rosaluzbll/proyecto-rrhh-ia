@@ -1,2 +1,2 @@
 # proyecto-rrhh-ia
-Sistema de Gestión de RRHH con IA - Proyecto Final UNICA
+Sistema de Gestión de RRHH - Proyecto Final UNICA
